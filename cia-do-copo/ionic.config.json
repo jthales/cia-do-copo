@@ -1,0 +1,7 @@
+{
+  "name": "cia-do-copo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
